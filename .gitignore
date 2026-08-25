@@ -11,3 +11,4 @@ wheels/
 
 #videogame stuff
 game_state.jsonl
+game_events.jsonl
